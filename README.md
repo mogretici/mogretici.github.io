@@ -1,1 +1,1 @@
-#todoApp React project. Demo for: https://mogretici.me/todoapp/
+#todoApp React project. Demo for: [mogretici.me/todoapp](https://mogretici.me/todoapp/)
